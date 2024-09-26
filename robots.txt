@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lbrowber.github.io/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/app/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/assets/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/css/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/data/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/includes/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/item/sitemap.lbrowber.gz
+Sitemap: https://lbrowber.github.io/src/sitemap.lbrowber.gz
